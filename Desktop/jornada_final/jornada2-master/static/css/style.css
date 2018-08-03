@@ -1,0 +1,26 @@
+body {
+    background:green;
+    font-family: sans-serif;
+}
+
+footer{
+    background-color: #9e0a0a;
+}
+.error{
+    color:yellow;
+    font-size: .8em
+
+}
+.message{
+    color: blueviolet;
+
+
+}
+.profile-picture {
+    width: 100px;
+    height: 100px;
+    background: grey;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
